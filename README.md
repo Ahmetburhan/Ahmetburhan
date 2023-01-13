@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on ...
 <br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ahmetburhan&theme=dark)](goo.gl/nXN8Td)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ahmetburhan&theme=dark)](https://goo.gl/nXN8Td)
