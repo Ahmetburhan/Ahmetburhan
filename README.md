@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on ...
-<br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ahmetburhan&theme=dark)](https://goo.gl/nXN8Td)
+<br><br>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ahmetburhan&theme=dark)](https://ahmetburhan.github.io/)
